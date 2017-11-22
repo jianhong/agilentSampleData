@@ -1,0 +1,10 @@
+Package: agilentSampleData
+Type: Package
+Title: Agilent-014868 Whole Mouse Genome Microarray 4x44K G4122F sample dataset
+Version: 0.1.0
+Author: Jianhong Ou
+Maintainer: Jianhong Ou <jianhong.ou@gmail.com>
+Description: Gene expression data downloaded from GSE27784.
+License: Artistic-2.0
+Encoding: UTF-8
+LazyData: true
